@@ -31,7 +31,7 @@ begin
         counter <= counter;
     end
 
-assign hi = (counter == 5'b11111);
 assign lo = (counter == 5'b00000);
+assign hi = (counter == 5'b11111);
 
 endmodule
