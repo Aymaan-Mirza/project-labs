@@ -1,4 +1,4 @@
-# project-labs-and-assignment
+# project-labs-and-assignments
 
 Collection of labs completed as part of a *Complete Digital IC Design Flow: From Concept to Silicon* course. Each lab builds toward understanding the full ASIC design flow, from RTL design through simulation and verification.
 
