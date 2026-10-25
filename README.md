@@ -4,7 +4,7 @@ Collection of labs completed as part of a *Complete Digital IC Design Flow: From
 
 ## Why I'm doing this
 
-I'm an Electrical Engineering student working toward a career in ASIC/hardware design. This repo is where I'm building foundational skills in the digital IC design flow, from writing RTL to verifying it works the way it's supposed to. Every lab here represents a step in understanding how a chip actually gets built, not just in theory, but in practice.
+I'm an Electrical Engineering student working toward a career in ASIC/hardware design. This repo is where I'm building foundational skills in the digital IC design flow, from writing RTL to verifying it works the way it's supposed to. Every assignment/lab here represents a step in understanding how a chip actually gets built, not just in theory, but in practice.
 
 ## Purpose
 
