@@ -13,7 +13,6 @@ This repo tracks my hands-on labs and assignments from the course, focused on pr
 ## Tools
 
 - **Language:** Verilog
-- **Simulation:** ModelSim
 - **Synthesis:** Vivado
 - **Editor:** VS Code with TerosHDL
 
