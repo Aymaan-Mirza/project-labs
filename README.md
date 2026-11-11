@@ -13,7 +13,7 @@ This repo tracks my hands-on labs and assignments from the course, focused on pr
 ## Tools
 
 - **Language:** Verilog
-- **Synthesis:** Vivado
+- **Synthesis:** AMD Vivado
 - **Editor:** VS Code with TerosHDL
 
 ## Status
